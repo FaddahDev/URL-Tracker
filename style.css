@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bold{
+    font-weight: 900;
+}
+h3{
+    color: darkgray;
+}
+.bg-gr{
+    background-color: darkgray;
+}
+
